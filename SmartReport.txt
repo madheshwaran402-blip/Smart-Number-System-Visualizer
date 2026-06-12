@@ -1,0 +1,5 @@
+SMART NUMBER SYSTEM ANALYZER PRO
+====================================
+Converted Decimal 25 -> Binary=11001, Octal=31, Hex=19
+Analyzed Number 25
+ASCII Lookup : 65 -> A
